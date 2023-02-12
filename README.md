@@ -14,6 +14,10 @@ For more details, please refer here - https://reactnative.dev/docs/environment-s
 
 2) Also you need to have `GOOGLE_MAPS_APIKEY` in the env file to run this app and to consume google maps Direction/Places/DistanceMatrix APIs
 
+Technologies used:-
+`ReactNative, React Redux, Redux, ReactNative Maps, React Navigation and Tailwind CSS`
+
+
 Sample screens from this mobile app:-
 
 ![image](https://user-images.githubusercontent.com/37778244/218304400-3decf6df-fcad-4a92-921b-b7400d2594c3.png)
