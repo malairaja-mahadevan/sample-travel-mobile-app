@@ -15,6 +15,7 @@ For more details, please refer here - https://reactnative.dev/docs/environment-s
 2) Also you need to have `GOOGLE_MAPS_APIKEY` in the env file to run this app and to consume google maps Direction/Places/DistanceMatrix APIs
 
 Sample screens from this mobile app:-
+
 ![image](https://user-images.githubusercontent.com/37778244/218304400-3decf6df-fcad-4a92-921b-b7400d2594c3.png)
 
 ![image](https://user-images.githubusercontent.com/37778244/218304422-675079eb-20b3-4ec7-a138-61ddcbdc8372.png)
@@ -22,5 +23,6 @@ Sample screens from this mobile app:-
 ![image](https://user-images.githubusercontent.com/37778244/218304484-7da7d564-5b83-484d-885d-1f965bfa015a.png)
 
 ![image](https://user-images.githubusercontent.com/37778244/218304508-dd9434c7-d3e3-4254-a07f-42e6666e0142.png)
+
 
 
