@@ -1,6 +1,6 @@
 import React from "react";
 import { useDispatch } from "react-redux";
-import { StyleSheet, SafeAreaView, View, Image } from "react-native";
+import { StyleSheet, SafeAreaView, View, Image, Text } from "react-native";
 import tw from "tailwind-react-native-classnames";
 import { GooglePlacesAutocomplete } from "react-native-google-places-autocomplete";
 
